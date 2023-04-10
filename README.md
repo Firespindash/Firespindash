@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Lucas Adriel de Lima - aka Firespindash!
+# 👋 Hi there, I’m Lucas Adriel - aka Firespindash!
 ## A web developer that have knowledge of shell scripting and a bit of C!
 I have developed things in shell script and other languages, but my favorite and the ones I have the best performance are the web dev languages.
 It is that so, my favorite programming language is PHP. I also have experience with the following frameworks: Node.js, Vue.js, Expo and Electron.
