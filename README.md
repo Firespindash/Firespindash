@@ -1,7 +1,8 @@
 # 👋 Hi there, I’m Lucas Adriel - aka Firespindash!
 ## A web developer that have knowledge of shell scripting and a bit of C!
-I have developed things in shell script and other languages, but my favorite and the ones I have the best performance are the web dev languages.
-It is that so, my favorite programming language is PHP. I also have experience with the following frameworks: Node.js, Vue.js, Expo and Electron.
+I have developed things in PHP and other languages, including scripts in Shell script, but my favorite and the ones I have the best dealt with the most are the web dev languages.
+It is that so, my favorite programming language is PHP. \
+I also have experience with the following frameworks: Node.js, Vue.js, Expo and Electron.
 - 👀 I’m interested in UI Design.
 - 💞️ I’m looking to collaborate on building a better web and desktop experience.
 ### Languages and tools that I know to some degree:
@@ -19,15 +20,14 @@ It is that so, my favorite programming language is PHP. I also have experience w
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 - 📫 Reach me by email: firespindash@gmail.com
 ### My stats
-![MyProfile](https://github-readme-stats.vercel.app/api/?username=firespindash&theme=tokyonight&showicons=true)
+I used to display graphs here, but the Vercel instance that used to host them is not sending them anymore, and most of the informations of the graphs
+were vague. It shows info related to contribution scores and my most used languages ranking, none of this is actually related to real problem solving.
 
-![CodeStatus](https://github-readme-stats.vercel.app/api/top-langs/?username=firespindash&langs_count=5&theme=tokyonight)
-
-I have a theory for my favorite languages not appearing in the most used ones. What happens is that the ones tha I like more I perfom better, so I can do more writing less, but CSS is an exception. Also, when PHP is embedded in HTML it is considered to be Hack language in GitHub classification, Hack is in short a modified PHP of Meta™.
+Remember: The best programming languages are the ones you may use the least, those in that you can do more with less.
 
 - Fun facts:
-  - I'm a blur effect enthusiast.
-  - I don't like to use frameworks, but I can work with it.
+  - I'm a blur effect and graphics enthusiast.
+  - I don't like to use big and complex frameworks, but I can deal with it.
 
 <!---
 Firespindash/Firespindash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
